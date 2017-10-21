@@ -1,0 +1,11 @@
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.Cache
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+C:\Users\nobody\source\repos\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb
